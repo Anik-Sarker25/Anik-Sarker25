@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/C4E22AQHSxx5X93l2zQ/feedshare-shrink_2048_1536/0/1660142294971?e=2147483647&v=beta&t=CnoW2xcLLKyXytdXHJ0cmuHpRpXMioanNi5hnh7B9q0" alt="Fahim-Hossain-Munna" border="0" height='200' />
+<img src="https://media.licdn.com/dms/image/C4E22AQHSxx5X93l2zQ/feedshare-shrink_2048_1536/0/1660142294971?e=2147483647&v=beta&t=CnoW2xcLLKyXytdXHJ0cmuHpRpXMioanNi5hnh7B9q0" alt="Md-Anik-Sarker" border="0" height='200' />
 </div>
 <div align="center">
 # 💫About Me :
@@ -34,7 +34,7 @@
 
 <h3>Connect with me:</h3>
 <p>
-<a href="https://twitter.com/https://twitter.com/fahimhossainmu2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/fahimhossainmu2" height="30" width="40" /></a>
+<a href="https://twitter.com/anik_hasen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/anik_hasen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fahim-hossain-munna-004a81219/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahim-hossain-munna-004a81219/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/fahimhossainmunna12/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fahimhossainmunna12/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mrvirgin___g0rila/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mrvirgin___g0rila/" height="30" width="40" /></a>
