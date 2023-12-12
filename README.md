@@ -35,10 +35,10 @@
 <h3>Connect with me:</h3>
 <p>
 <a href="https://twitter.com/anik_hasen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/anik_hasen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fahim-hossain-munna-004a81219/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahim-hossain-munna-004a81219/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/fahimhossainmunna12/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fahimhossainmunna12/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mrvirgin___g0rila/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mrvirgin___g0rila/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@wexpartstation8469/featured" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@wexpartstation8469/featured" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anik-hasen-6b8ab124a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anik-hasen-6b8ab124a/" height="30" width="40" /></a>
+<a href="https://web.facebook.com/anik.hasen.7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/anik.hasen.7" height="30" width="40" /></a>
+<a href="https://www.instagram.com/md.anikhasan4/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/md.anikhasan4/" height="30" width="40" /></a>
+
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim-hossain-munna&show_icons=true&locale=en&layout=compact" alt="anik-sarker" /></p>
