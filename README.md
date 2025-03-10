@@ -14,6 +14,7 @@
 <div align="center">
 <img src="https://media.licdn.com/dms/image/C4E22AQHSxx5X93l2zQ/feedshare-shrink_2048_1536/0/1660142294971?e=2147483647&v=beta&t=CnoW2xcLLKyXytdXHJ0cmuHpRpXMioanNi5hnh7B9q0" alt="Md-Anik-Sarker" border="0" height='200' />
 </div>
+
 <div align="center">
 # 💫About Me :
 🔭 I’m currently on a vacation 
@@ -38,13 +39,10 @@
 <a href="https://www.linkedin.com/in/anik-hasen-6b8ab124a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anik-hasen-6b8ab124a/" height="30" width="40" /></a>
 <a href="https://web.facebook.com/anik.hasen.7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/anik.hasen.7" height="30" width="40" /></a>
 <a href="https://www.instagram.com/md.anikhasan4/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/md.anikhasan4/" height="30" width="40" /></a>
-
 </p>
 
-
-
 ---
-  
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
@@ -55,15 +53,8 @@
 
 ---
 
----
 ![Profile_Views](https://komarev.com/ghpvc/?username=Anik-Sarker25&style=for-the-badge&label=Visitors+Count&color=brightgreen)
-
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
-
-
-
-
-  
